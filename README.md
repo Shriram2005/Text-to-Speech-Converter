@@ -8,6 +8,10 @@ Text to Speech Converter is a web application that allows users to convert text 
 - Select from available voices
 - Simple and intuitive user interface
 
+## Screenshot
+
+![Screenshot 2024-10-21 000942](https://github.com/user-attachments/assets/77e8f0a7-1dfb-45a6-9ee6-ac2003125e96)
+
 ## Usage
 
 1. Open `index.html` in your web browser.
